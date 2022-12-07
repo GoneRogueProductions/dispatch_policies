@@ -4,4 +4,4 @@ View other projects by GoneRogue Productions - GoneRogue.ml
 These policies should be abided.
 Failure to abide with lead to consequences 
 The policies are located in the policies folder.
-These policies are open-sourced under the MIT license (see LICENSE.md)
+These policies are open-sourced under the gnu gplv3 license (see LICENSE.md)
